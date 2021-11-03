@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "betterimageviewer": {
+      "updates": [
+        {
+          "version": "22",
+          "update_link": "https://raw.githubusercontent.com/Wassss/betterimageviewer/master/betterimageviewer-22.xpo"
+        }
+      ]
+    }
+  }
+}
